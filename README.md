@@ -1,2 +1,1 @@
-# Bike-Sharing-Demand
-predict bike sharing demand using the AWS AutoGloun Framework
+## You will find everything you need in the /Project folder
